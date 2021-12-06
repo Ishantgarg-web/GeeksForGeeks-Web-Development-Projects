@@ -1,0 +1,38 @@
+body{
+	background-color: #dcdce6;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.albert-main-heading{
+	color: #337ab7;
+}
+.center-formatted{
+	text-align: center;
+}
+.emc-main-heading{
+	color: green;
+	font-size: 24px;
+	margin-bottom: 5px;
+}
+img{
+	margin-bottom: 0;
+	margin-top: 0;
+}
+.sci-main-heading{
+	margin-top: 0;
+}
+.things-main-heading{
+	margin-top: 5px;
+}
+.middle-formatted-text{
+	color: #333333;
+	font-size: 14px;
+	line-height: 1.428;
+}
+.bottom-formatted-text{
+	color: #9400d3;
+	font-size: 18px;
+}
+.bottom-formatted-link{
+	color: #337ab7;
+	text-decoration: none;
+}
